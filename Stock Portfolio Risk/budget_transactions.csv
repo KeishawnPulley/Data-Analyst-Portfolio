@@ -1,0 +1,804 @@
+transaction_id,date,category,amount,month,day_of_week,type
+1,1/1/2024,Rent,1450,2024-01,Monday,Expense
+2,1/1/2024,Utilities,136.54,2024-01,Monday,Expense
+751,1/1/2024,Income,2600,2024-01,Monday,Income
+14,1/1/2024,Dining Out,25.56,2024-01,Monday,Expense
+3,1/3/2024,Subscriptions,48.24,2024-01,Wednesday,Expense
+11,1/3/2024,Dining Out,28.58,2024-01,Wednesday,Expense
+8,1/4/2024,Groceries,46.52,2024-01,Thursday,Expense
+28,1/4/2024,Travel,368.72,2024-01,Thursday,Expense
+6,1/5/2024,Groceries,54.5,2024-01,Friday,Expense
+24,1/5/2024,Shopping,84.54,2024-01,Friday,Expense
+25,1/7/2024,Shopping,61.85,2024-01,Sunday,Expense
+12,1/7/2024,Dining Out,24.45,2024-01,Sunday,Expense
+4,1/8/2024,Groceries,95.46,2024-01,Monday,Expense
+5,1/8/2024,Groceries,53.38,2024-01,Monday,Expense
+13,1/8/2024,Dining Out,5,2024-01,Monday,Expense
+23,1/9/2024,Shopping,70.57,2024-01,Tuesday,Expense
+19,1/9/2024,Transportation,54.21,2024-01,Tuesday,Expense
+27,1/11/2024,Health/Fitness,40.97,2024-01,Thursday,Expense
+752,1/15/2024,Income,2600,2024-01,Monday,Income
+17,1/15/2024,Transportation,45.91,2024-01,Monday,Expense
+16,1/18/2024,Dining Out,73.39,2024-01,Thursday,Expense
+18,1/19/2024,Transportation,31,2024-01,Friday,Expense
+9,1/22/2024,Groceries,12.75,2024-01,Monday,Expense
+22,1/23/2024,Entertainment,25.41,2024-01,Tuesday,Expense
+15,1/23/2024,Dining Out,43.97,2024-01,Tuesday,Expense
+10,1/24/2024,Dining Out,49.26,2024-01,Wednesday,Expense
+7,1/24/2024,Groceries,53.57,2024-01,Wednesday,Expense
+26,1/25/2024,Shopping,50.37,2024-01,Thursday,Expense
+21,1/25/2024,Entertainment,29.89,2024-01,Thursday,Expense
+20,1/26/2024,Entertainment,19.33,2024-01,Friday,Expense
+753,1/29/2024,Income,2600,2024-01,Monday,Income
+31,2/1/2024,Subscriptions,43.07,2024-02,Thursday,Expense
+29,2/1/2024,Rent,1450,2024-02,Thursday,Expense
+48,2/3/2024,Entertainment,53.16,2024-02,Saturday,Expense
+30,2/4/2024,Utilities,148.1,2024-02,Sunday,Expense
+52,2/4/2024,Shopping,5,2024-02,Sunday,Expense
+46,2/7/2024,Transportation,10.19,2024-02,Wednesday,Expense
+50,2/8/2024,Shopping,41.89,2024-02,Thursday,Expense
+54,2/9/2024,Shopping,65.44,2024-02,Friday,Expense
+36,2/9/2024,Dining Out,12.38,2024-02,Friday,Expense
+47,2/10/2024,Entertainment,40.03,2024-02,Saturday,Expense
+39,2/10/2024,Transportation,39.46,2024-02,Saturday,Expense
+44,2/12/2024,Transportation,35.51,2024-02,Monday,Expense
+32,2/12/2024,Groceries,76.64,2024-02,Monday,Expense
+34,2/12/2024,Groceries,82.89,2024-02,Monday,Expense
+754,2/12/2024,Income,2600,2024-02,Monday,Income
+53,2/13/2024,Shopping,66.84,2024-02,Tuesday,Expense
+38,2/15/2024,Dining Out,32.33,2024-02,Thursday,Expense
+45,2/19/2024,Transportation,41.38,2024-02,Monday,Expense
+42,2/20/2024,Transportation,52.33,2024-02,Tuesday,Expense
+35,2/20/2024,Groceries,80.1,2024-02,Tuesday,Expense
+41,2/21/2024,Transportation,5,2024-02,Wednesday,Expense
+37,2/24/2024,Dining Out,51.49,2024-02,Saturday,Expense
+755,2/26/2024,Income,2600,2024-02,Monday,Income
+40,2/27/2024,Transportation,63.47,2024-02,Tuesday,Expense
+33,2/28/2024,Groceries,82.75,2024-02,Wednesday,Expense
+43,2/28/2024,Transportation,41.31,2024-02,Wednesday,Expense
+49,2/28/2024,Shopping,26.92,2024-02,Wednesday,Expense
+51,2/28/2024,Shopping,39.32,2024-02,Wednesday,Expense
+57,3/2/2024,Subscriptions,43.29,2024-03,Saturday,Expense
+73,3/2/2024,Dining Out,11.74,2024-03,Saturday,Expense
+66,3/3/2024,Groceries,80.04,2024-03,Sunday,Expense
+56,3/3/2024,Utilities,129.48,2024-03,Sunday,Expense
+76,3/3/2024,Transportation,52.2,2024-03,Sunday,Expense
+55,3/4/2024,Rent,1450,2024-03,Monday,Expense
+86,3/5/2024,Shopping,81.26,2024-03,Tuesday,Expense
+84,3/5/2024,Shopping,73.95,2024-03,Tuesday,Expense
+69,3/6/2024,Dining Out,43.8,2024-03,Wednesday,Expense
+60,3/7/2024,Groceries,114.26,2024-03,Thursday,Expense
+77,3/7/2024,Transportation,21.54,2024-03,Thursday,Expense
+71,3/8/2024,Dining Out,36.49,2024-03,Friday,Expense
+87,3/8/2024,Health/Fitness,73.1,2024-03,Friday,Expense
+74,3/8/2024,Dining Out,36.03,2024-03,Friday,Expense
+85,3/9/2024,Shopping,7.35,2024-03,Saturday,Expense
+62,3/9/2024,Groceries,71.03,2024-03,Saturday,Expense
+75,3/9/2024,Transportation,47.1,2024-03,Saturday,Expense
+756,3/11/2024,Income,2600,2024-03,Monday,Income
+58,3/12/2024,Groceries,48.95,2024-03,Tuesday,Expense
+59,3/12/2024,Groceries,66.2,2024-03,Tuesday,Expense
+81,3/13/2024,Shopping,66.72,2024-03,Wednesday,Expense
+83,3/15/2024,Shopping,129.63,2024-03,Friday,Expense
+80,3/16/2024,Entertainment,53.81,2024-03,Saturday,Expense
+89,3/18/2024,Travel,126.47,2024-03,Monday,Expense
+78,3/19/2024,Transportation,43.41,2024-03,Tuesday,Expense
+67,3/20/2024,Groceries,80.82,2024-03,Wednesday,Expense
+70,3/21/2024,Dining Out,26.51,2024-03,Thursday,Expense
+68,3/21/2024,Groceries,46.81,2024-03,Thursday,Expense
+82,3/21/2024,Shopping,26.43,2024-03,Thursday,Expense
+65,3/21/2024,Groceries,87.86,2024-03,Thursday,Expense
+64,3/22/2024,Groceries,41.63,2024-03,Friday,Expense
+61,3/22/2024,Groceries,61.15,2024-03,Friday,Expense
+79,3/23/2024,Transportation,59.61,2024-03,Saturday,Expense
+63,3/23/2024,Groceries,64.31,2024-03,Saturday,Expense
+88,3/24/2024,Health/Fitness,88.05,2024-03,Sunday,Expense
+757,3/25/2024,Income,2600,2024-03,Monday,Income
+72,3/27/2024,Dining Out,27.45,2024-03,Wednesday,Expense
+111,4/1/2024,Dining Out,48.58,2024-04,Monday,Expense
+122,4/1/2024,Transportation,56.33,2024-04,Monday,Expense
+103,4/2/2024,Groceries,79.2,2024-04,Tuesday,Expense
+91,4/3/2024,Utilities,105.75,2024-04,Wednesday,Expense
+101,4/3/2024,Groceries,46.48,2024-04,Wednesday,Expense
+112,4/4/2024,Dining Out,25.94,2024-04,Thursday,Expense
+117,4/4/2024,Transportation,74.72,2024-04,Thursday,Expense
+98,4/5/2024,Groceries,80.54,2024-04,Friday,Expense
+90,4/5/2024,Rent,1450,2024-04,Friday,Expense
+92,4/5/2024,Subscriptions,41.14,2024-04,Friday,Expense
+120,4/6/2024,Transportation,15.81,2024-04,Saturday,Expense
+105,4/6/2024,Dining Out,22.87,2024-04,Saturday,Expense
+758,4/8/2024,Income,2600,2024-04,Monday,Income
+97,4/8/2024,Groceries,55.95,2024-04,Monday,Expense
+128,4/10/2024,Shopping,23.3,2024-04,Wednesday,Expense
+118,4/10/2024,Transportation,11.99,2024-04,Wednesday,Expense
+116,4/11/2024,Transportation,41.23,2024-04,Thursday,Expense
+96,4/12/2024,Groceries,79.81,2024-04,Friday,Expense
+95,4/13/2024,Groceries,62.52,2024-04,Saturday,Expense
+93,4/14/2024,Groceries,65.84,2024-04,Sunday,Expense
+119,4/14/2024,Transportation,50.29,2024-04,Sunday,Expense
+109,4/15/2024,Dining Out,20.61,2024-04,Monday,Expense
+121,4/15/2024,Transportation,32.92,2024-04,Monday,Expense
+100,4/16/2024,Groceries,58.16,2024-04,Tuesday,Expense
+131,4/17/2024,Health/Fitness,75.97,2024-04,Wednesday,Expense
+125,4/17/2024,Entertainment,16.97,2024-04,Wednesday,Expense
+99,4/17/2024,Groceries,85.91,2024-04,Wednesday,Expense
+124,4/17/2024,Entertainment,30.91,2024-04,Wednesday,Expense
+110,4/18/2024,Dining Out,55.73,2024-04,Thursday,Expense
+113,4/18/2024,Dining Out,39.57,2024-04,Thursday,Expense
+94,4/19/2024,Groceries,62.25,2024-04,Friday,Expense
+108,4/20/2024,Dining Out,50.99,2024-04,Saturday,Expense
+107,4/20/2024,Dining Out,35.77,2024-04,Saturday,Expense
+127,4/21/2024,Shopping,89.1,2024-04,Sunday,Expense
+115,4/21/2024,Transportation,32.72,2024-04,Sunday,Expense
+130,4/21/2024,Shopping,75.2,2024-04,Sunday,Expense
+759,4/22/2024,Income,2600,2024-04,Monday,Income
+123,4/24/2024,Transportation,40.96,2024-04,Wednesday,Expense
+114,4/25/2024,Transportation,43.86,2024-04,Thursday,Expense
+102,4/25/2024,Groceries,54.74,2024-04,Thursday,Expense
+106,4/26/2024,Dining Out,50.86,2024-04,Friday,Expense
+129,4/27/2024,Shopping,50.41,2024-04,Saturday,Expense
+104,4/28/2024,Dining Out,36.39,2024-04,Sunday,Expense
+126,4/28/2024,Shopping,28.53,2024-04,Sunday,Expense
+141,5/1/2024,Groceries,62.9,2024-05,Wednesday,Expense
+133,5/2/2024,Utilities,99.69,2024-05,Thursday,Expense
+134,5/2/2024,Subscriptions,49.73,2024-05,Thursday,Expense
+170,5/4/2024,Travel,364.83,2024-05,Saturday,Expense
+151,5/5/2024,Dining Out,6.54,2024-05,Sunday,Expense
+132,5/5/2024,Rent,1450,2024-05,Sunday,Expense
+152,5/5/2024,Transportation,59.21,2024-05,Sunday,Expense
+760,5/6/2024,Income,2600,2024-05,Monday,Income
+156,5/6/2024,Transportation,32.6,2024-05,Monday,Expense
+137,5/6/2024,Groceries,102.44,2024-05,Monday,Expense
+161,5/7/2024,Entertainment,44.95,2024-05,Tuesday,Expense
+157,5/9/2024,Transportation,31.16,2024-05,Thursday,Expense
+143,5/11/2024,Groceries,39,2024-05,Saturday,Expense
+166,5/12/2024,Shopping,107.22,2024-05,Sunday,Expense
+144,5/12/2024,Dining Out,28.02,2024-05,Sunday,Expense
+135,5/12/2024,Groceries,90.33,2024-05,Sunday,Expense
+169,5/15/2024,Health/Fitness,40.69,2024-05,Wednesday,Expense
+167,5/15/2024,Shopping,55.84,2024-05,Wednesday,Expense
+154,5/16/2024,Transportation,30.66,2024-05,Thursday,Expense
+147,5/16/2024,Dining Out,31.96,2024-05,Thursday,Expense
+158,5/17/2024,Transportation,52.74,2024-05,Friday,Expense
+168,5/17/2024,Shopping,82.28,2024-05,Friday,Expense
+140,5/17/2024,Groceries,39.1,2024-05,Friday,Expense
+149,5/18/2024,Dining Out,44.71,2024-05,Saturday,Expense
+155,5/18/2024,Transportation,36.88,2024-05,Saturday,Expense
+138,5/18/2024,Groceries,64.61,2024-05,Saturday,Expense
+146,5/19/2024,Dining Out,41.07,2024-05,Sunday,Expense
+160,5/20/2024,Entertainment,16.14,2024-05,Monday,Expense
+142,5/20/2024,Groceries,25.1,2024-05,Monday,Expense
+761,5/20/2024,Income,2600,2024-05,Monday,Income
+165,5/21/2024,Shopping,87.54,2024-05,Tuesday,Expense
+153,5/22/2024,Transportation,44.21,2024-05,Wednesday,Expense
+164,5/22/2024,Shopping,88.02,2024-05,Wednesday,Expense
+163,5/24/2024,Entertainment,29.58,2024-05,Friday,Expense
+162,5/25/2024,Entertainment,42.21,2024-05,Saturday,Expense
+148,5/25/2024,Dining Out,35.91,2024-05,Saturday,Expense
+150,5/25/2024,Dining Out,36.89,2024-05,Saturday,Expense
+136,5/25/2024,Groceries,60.25,2024-05,Saturday,Expense
+139,5/25/2024,Groceries,46.35,2024-05,Saturday,Expense
+145,5/27/2024,Dining Out,35.88,2024-05,Monday,Expense
+159,5/28/2024,Transportation,45.36,2024-05,Tuesday,Expense
+175,6/1/2024,Groceries,100.41,2024-06,Saturday,Expense
+173,6/1/2024,Subscriptions,47.98,2024-06,Saturday,Expense
+181,6/1/2024,Groceries,69.08,2024-06,Saturday,Expense
+171,6/2/2024,Rent,1450,2024-06,Sunday,Expense
+172,6/2/2024,Utilities,142.42,2024-06,Sunday,Expense
+762,6/3/2024,Income,2600,2024-06,Monday,Income
+184,6/3/2024,Dining Out,27.84,2024-06,Monday,Expense
+182,6/3/2024,Groceries,76.18,2024-06,Monday,Expense
+189,6/5/2024,Entertainment,55.42,2024-06,Wednesday,Expense
+187,6/7/2024,Transportation,29.76,2024-06,Friday,Expense
+193,6/8/2024,Shopping,73.95,2024-06,Saturday,Expense
+180,6/8/2024,Groceries,56.33,2024-06,Saturday,Expense
+178,6/8/2024,Groceries,77.28,2024-06,Saturday,Expense
+174,6/11/2024,Groceries,23.2,2024-06,Tuesday,Expense
+197,6/14/2024,Health/Fitness,46.67,2024-06,Friday,Expense
+195,6/16/2024,Health/Fitness,86.01,2024-06,Sunday,Expense
+186,6/16/2024,Transportation,63.55,2024-06,Sunday,Expense
+192,6/16/2024,Shopping,94.34,2024-06,Sunday,Expense
+763,6/17/2024,Income,2600,2024-06,Monday,Income
+177,6/18/2024,Groceries,81.08,2024-06,Tuesday,Expense
+188,6/18/2024,Transportation,39.28,2024-06,Tuesday,Expense
+179,6/19/2024,Groceries,92.16,2024-06,Wednesday,Expense
+176,6/19/2024,Groceries,58.82,2024-06,Wednesday,Expense
+191,6/19/2024,Shopping,57.79,2024-06,Wednesday,Expense
+190,6/19/2024,Shopping,85.83,2024-06,Wednesday,Expense
+185,6/22/2024,Dining Out,5,2024-06,Saturday,Expense
+183,6/23/2024,Groceries,82.45,2024-06,Sunday,Expense
+196,6/26/2024,Health/Fitness,104.48,2024-06,Wednesday,Expense
+194,6/26/2024,Shopping,57.17,2024-06,Wednesday,Expense
+764,7/1/2024,Income,2600,2024-07,Monday,Income
+199,7/1/2024,Utilities,119.01,2024-07,Monday,Expense
+229,7/1/2024,Shopping,5.75,2024-07,Monday,Expense
+200,7/1/2024,Subscriptions,42,2024-07,Monday,Expense
+209,7/2/2024,Groceries,38.08,2024-07,Tuesday,Expense
+225,7/2/2024,Transportation,69.61,2024-07,Tuesday,Expense
+198,7/2/2024,Rent,1450,2024-07,Tuesday,Expense
+220,7/3/2024,Dining Out,67.01,2024-07,Wednesday,Expense
+230,7/3/2024,Shopping,40.86,2024-07,Wednesday,Expense
+224,7/4/2024,Transportation,57.13,2024-07,Thursday,Expense
+234,7/6/2024,Health/Fitness,5.75,2024-07,Saturday,Expense
+217,7/6/2024,Dining Out,62.29,2024-07,Saturday,Expense
+214,7/7/2024,Dining Out,52.53,2024-07,Sunday,Expense
+233,7/8/2024,Health/Fitness,68.91,2024-07,Monday,Expense
+218,7/9/2024,Dining Out,45.98,2024-07,Tuesday,Expense
+203,7/12/2024,Groceries,101.88,2024-07,Friday,Expense
+202,7/14/2024,Groceries,116.87,2024-07,Sunday,Expense
+204,7/14/2024,Groceries,63.96,2024-07,Sunday,Expense
+216,7/14/2024,Dining Out,13.79,2024-07,Sunday,Expense
+205,7/14/2024,Groceries,35.35,2024-07,Sunday,Expense
+206,7/15/2024,Groceries,105.89,2024-07,Monday,Expense
+765,7/15/2024,Income,2600,2024-07,Monday,Income
+215,7/18/2024,Dining Out,20.85,2024-07,Thursday,Expense
+227,7/18/2024,Transportation,57.83,2024-07,Thursday,Expense
+223,7/18/2024,Transportation,47.16,2024-07,Thursday,Expense
+211,7/21/2024,Groceries,74.87,2024-07,Sunday,Expense
+212,7/21/2024,Dining Out,41.06,2024-07,Sunday,Expense
+226,7/21/2024,Transportation,29.36,2024-07,Sunday,Expense
+201,7/22/2024,Groceries,44.38,2024-07,Monday,Expense
+210,7/22/2024,Groceries,60.96,2024-07,Monday,Expense
+208,7/24/2024,Groceries,103.22,2024-07,Wednesday,Expense
+231,7/25/2024,Shopping,124.63,2024-07,Thursday,Expense
+228,7/27/2024,Entertainment,58.84,2024-07,Saturday,Expense
+221,7/28/2024,Dining Out,42.25,2024-07,Sunday,Expense
+222,7/28/2024,Dining Out,60.59,2024-07,Sunday,Expense
+219,7/28/2024,Dining Out,27.34,2024-07,Sunday,Expense
+213,7/28/2024,Dining Out,42.33,2024-07,Sunday,Expense
+207,7/28/2024,Groceries,72.12,2024-07,Sunday,Expense
+232,7/28/2024,Shopping,108.4,2024-07,Sunday,Expense
+766,7/29/2024,Income,2600,2024-07,Monday,Income
+253,8/2/2024,Shopping,89.06,2024-08,Friday,Expense
+241,8/2/2024,Groceries,59.19,2024-08,Friday,Expense
+257,8/2/2024,Health/Fitness,25.68,2024-08,Friday,Expense
+236,8/4/2024,Utilities,139.85,2024-08,Sunday,Expense
+235,8/4/2024,Rent,1450,2024-08,Sunday,Expense
+237,8/4/2024,Subscriptions,47.02,2024-08,Sunday,Expense
+242,8/6/2024,Groceries,106.1,2024-08,Tuesday,Expense
+238,8/7/2024,Groceries,42.97,2024-08,Wednesday,Expense
+252,8/7/2024,Shopping,42.57,2024-08,Wednesday,Expense
+251,8/10/2024,Entertainment,77.48,2024-08,Saturday,Expense
+244,8/10/2024,Dining Out,13.49,2024-08,Saturday,Expense
+767,8/12/2024,Income,2600,2024-08,Monday,Income
+240,8/13/2024,Groceries,79.95,2024-08,Tuesday,Expense
+245,8/14/2024,Dining Out,32.13,2024-08,Wednesday,Expense
+248,8/18/2024,Transportation,38.32,2024-08,Sunday,Expense
+256,8/18/2024,Health/Fitness,5,2024-08,Sunday,Expense
+254,8/19/2024,Shopping,15.48,2024-08,Monday,Expense
+249,8/22/2024,Transportation,36.69,2024-08,Thursday,Expense
+250,8/23/2024,Transportation,49.21,2024-08,Friday,Expense
+255,8/24/2024,Health/Fitness,95.71,2024-08,Saturday,Expense
+246,8/24/2024,Dining Out,35.86,2024-08,Saturday,Expense
+768,8/26/2024,Income,2600,2024-08,Monday,Income
+243,8/26/2024,Dining Out,26.61,2024-08,Monday,Expense
+247,8/26/2024,Transportation,5.76,2024-08,Monday,Expense
+239,8/28/2024,Groceries,74.75,2024-08,Wednesday,Expense
+260,9/1/2024,Subscriptions,39.59,2024-09,Sunday,Expense
+259,9/1/2024,Utilities,123.84,2024-09,Sunday,Expense
+267,9/2/2024,Groceries,65.55,2024-09,Monday,Expense
+271,9/3/2024,Dining Out,28.8,2024-09,Tuesday,Expense
+269,9/3/2024,Groceries,57.77,2024-09,Tuesday,Expense
+258,9/3/2024,Rent,1450,2024-09,Tuesday,Expense
+273,9/3/2024,Transportation,47.92,2024-09,Tuesday,Expense
+266,9/6/2024,Groceries,83.83,2024-09,Friday,Expense
+272,9/8/2024,Dining Out,22.57,2024-09,Sunday,Expense
+769,9/9/2024,Income,2600,2024-09,Monday,Income
+282,9/10/2024,Health/Fitness,80.19,2024-09,Tuesday,Expense
+279,9/11/2024,Transportation,31.53,2024-09,Wednesday,Expense
+274,9/14/2024,Transportation,43.11,2024-09,Saturday,Expense
+262,9/16/2024,Groceries,51.63,2024-09,Monday,Expense
+263,9/17/2024,Groceries,92.91,2024-09,Tuesday,Expense
+268,9/17/2024,Groceries,67.55,2024-09,Tuesday,Expense
+278,9/17/2024,Transportation,28.57,2024-09,Tuesday,Expense
+265,9/17/2024,Groceries,26.72,2024-09,Tuesday,Expense
+277,9/19/2024,Transportation,54,2024-09,Thursday,Expense
+261,9/19/2024,Groceries,57.24,2024-09,Thursday,Expense
+276,9/19/2024,Transportation,64.29,2024-09,Thursday,Expense
+281,9/21/2024,Shopping,56.9,2024-09,Saturday,Expense
+280,9/22/2024,Shopping,28.93,2024-09,Sunday,Expense
+275,9/22/2024,Transportation,70.65,2024-09,Sunday,Expense
+770,9/23/2024,Income,2600,2024-09,Monday,Income
+270,9/28/2024,Groceries,60.23,2024-09,Saturday,Expense
+264,9/28/2024,Groceries,38.81,2024-09,Saturday,Expense
+286,10/1/2024,Groceries,74.76,2024-10,Tuesday,Expense
+285,10/1/2024,Subscriptions,48.86,2024-10,Tuesday,Expense
+321,10/2/2024,Shopping,19.37,2024-10,Wednesday,Expense
+298,10/3/2024,Dining Out,31.25,2024-10,Thursday,Expense
+322,10/3/2024,Shopping,5,2024-10,Thursday,Expense
+284,10/3/2024,Utilities,167.66,2024-10,Thursday,Expense
+291,10/3/2024,Groceries,76.77,2024-10,Thursday,Expense
+307,10/4/2024,Dining Out,48.39,2024-10,Friday,Expense
+309,10/4/2024,Transportation,44.3,2024-10,Friday,Expense
+290,10/4/2024,Groceries,53.11,2024-10,Friday,Expense
+283,10/4/2024,Rent,1450,2024-10,Friday,Expense
+308,10/5/2024,Dining Out,36.43,2024-10,Saturday,Expense
+296,10/5/2024,Groceries,20.84,2024-10,Saturday,Expense
+312,10/5/2024,Transportation,62.65,2024-10,Saturday,Expense
+771,10/7/2024,Income,2600,2024-10,Monday,Income
+316,10/7/2024,Transportation,59.3,2024-10,Monday,Expense
+293,10/7/2024,Groceries,58.62,2024-10,Monday,Expense
+295,10/9/2024,Groceries,85.7,2024-10,Wednesday,Expense
+313,10/9/2024,Transportation,46.03,2024-10,Wednesday,Expense
+306,10/10/2024,Dining Out,47.35,2024-10,Thursday,Expense
+314,10/10/2024,Transportation,34.79,2024-10,Thursday,Expense
+299,10/12/2024,Dining Out,54.52,2024-10,Saturday,Expense
+297,10/12/2024,Dining Out,40.41,2024-10,Saturday,Expense
+324,10/14/2024,Health/Fitness,53.88,2024-10,Monday,Expense
+287,10/15/2024,Groceries,96.6,2024-10,Tuesday,Expense
+294,10/17/2024,Groceries,75.87,2024-10,Thursday,Expense
+319,10/17/2024,Entertainment,5,2024-10,Thursday,Expense
+292,10/18/2024,Groceries,58.63,2024-10,Friday,Expense
+301,10/18/2024,Dining Out,50.77,2024-10,Friday,Expense
+311,10/18/2024,Transportation,27.74,2024-10,Friday,Expense
+289,10/19/2024,Groceries,67.27,2024-10,Saturday,Expense
+315,10/20/2024,Transportation,52.44,2024-10,Sunday,Expense
+288,10/20/2024,Groceries,62.6,2024-10,Sunday,Expense
+302,10/20/2024,Dining Out,22.35,2024-10,Sunday,Expense
+323,10/21/2024,Health/Fitness,123.37,2024-10,Monday,Expense
+304,10/21/2024,Dining Out,35.24,2024-10,Monday,Expense
+318,10/21/2024,Entertainment,50.17,2024-10,Monday,Expense
+772,10/21/2024,Income,2600,2024-10,Monday,Income
+305,10/22/2024,Dining Out,31.41,2024-10,Tuesday,Expense
+317,10/23/2024,Transportation,33.33,2024-10,Wednesday,Expense
+310,10/24/2024,Transportation,23.63,2024-10,Thursday,Expense
+303,10/26/2024,Dining Out,11.3,2024-10,Saturday,Expense
+300,10/27/2024,Dining Out,5,2024-10,Sunday,Expense
+320,10/28/2024,Shopping,66.24,2024-10,Monday,Expense
+327,11/1/2024,Subscriptions,46.08,2024-11,Friday,Expense
+326,11/1/2024,Utilities,154.76,2024-11,Friday,Expense
+345,11/2/2024,Transportation,33.62,2024-11,Saturday,Expense
+325,11/3/2024,Rent,1450,2024-11,Sunday,Expense
+339,11/3/2024,Dining Out,37.31,2024-11,Sunday,Expense
+773,11/4/2024,Income,2600,2024-11,Monday,Income
+330,11/5/2024,Groceries,90.57,2024-11,Tuesday,Expense
+341,11/5/2024,Dining Out,39.32,2024-11,Tuesday,Expense
+333,11/6/2024,Groceries,103.7,2024-11,Wednesday,Expense
+346,11/8/2024,Entertainment,40.75,2024-11,Friday,Expense
+332,11/9/2024,Groceries,74.8,2024-11,Saturday,Expense
+328,11/11/2024,Groceries,88.61,2024-11,Monday,Expense
+347,11/12/2024,Entertainment,32.54,2024-11,Tuesday,Expense
+342,11/12/2024,Dining Out,39.17,2024-11,Tuesday,Expense
+338,11/14/2024,Groceries,93.08,2024-11,Thursday,Expense
+335,11/15/2024,Groceries,98.45,2024-11,Friday,Expense
+336,11/18/2024,Groceries,22.3,2024-11,Monday,Expense
+774,11/18/2024,Income,2600,2024-11,Monday,Income
+349,11/20/2024,Health/Fitness,40.31,2024-11,Wednesday,Expense
+331,11/21/2024,Groceries,63.89,2024-11,Thursday,Expense
+337,11/23/2024,Groceries,72.48,2024-11,Saturday,Expense
+340,11/23/2024,Dining Out,21.74,2024-11,Saturday,Expense
+350,11/24/2024,Health/Fitness,50.82,2024-11,Sunday,Expense
+334,11/24/2024,Groceries,64.01,2024-11,Sunday,Expense
+329,11/25/2024,Groceries,138.93,2024-11,Monday,Expense
+343,11/26/2024,Transportation,29.69,2024-11,Tuesday,Expense
+344,11/28/2024,Transportation,57.3,2024-11,Thursday,Expense
+348,11/28/2024,Entertainment,22.23,2024-11,Thursday,Expense
+358,12/1/2024,Groceries,81.46,2024-12,Sunday,Expense
+374,12/1/2024,Shopping,81.81,2024-12,Sunday,Expense
+775,12/2/2024,Income,2600,2024-12,Monday,Income
+353,12/2/2024,Subscriptions,38.8,2024-12,Monday,Expense
+367,12/2/2024,Dining Out,31.83,2024-12,Monday,Expense
+352,12/2/2024,Utilities,88.04,2024-12,Monday,Expense
+351,12/2/2024,Rent,1450,2024-12,Monday,Expense
+359,12/6/2024,Groceries,80.69,2024-12,Friday,Expense
+356,12/6/2024,Groceries,101.14,2024-12,Friday,Expense
+369,12/7/2024,Transportation,106.35,2024-12,Saturday,Expense
+376,12/7/2024,Shopping,97.62,2024-12,Saturday,Expense
+368,12/8/2024,Transportation,23.93,2024-12,Sunday,Expense
+373,12/8/2024,Entertainment,54.75,2024-12,Sunday,Expense
+361,12/11/2024,Groceries,99.83,2024-12,Wednesday,Expense
+377,12/13/2024,Health/Fitness,94.77,2024-12,Friday,Expense
+357,12/14/2024,Groceries,104.96,2024-12,Saturday,Expense
+363,12/14/2024,Dining Out,30.72,2024-12,Saturday,Expense
+371,12/15/2024,Entertainment,21.88,2024-12,Sunday,Expense
+776,12/16/2024,Income,2600,2024-12,Monday,Income
+375,12/22/2024,Shopping,95.31,2024-12,Sunday,Expense
+365,12/24/2024,Dining Out,33.43,2024-12,Tuesday,Expense
+360,12/24/2024,Groceries,107.16,2024-12,Tuesday,Expense
+354,12/26/2024,Groceries,119.53,2024-12,Thursday,Expense
+364,12/26/2024,Dining Out,75.53,2024-12,Thursday,Expense
+372,12/26/2024,Entertainment,102.29,2024-12,Thursday,Expense
+362,12/26/2024,Groceries,120.02,2024-12,Thursday,Expense
+355,12/26/2024,Groceries,79.27,2024-12,Thursday,Expense
+370,12/27/2024,Transportation,34.2,2024-12,Friday,Expense
+366,12/28/2024,Dining Out,95.51,2024-12,Saturday,Expense
+777,12/30/2024,Income,2600,2024-12,Monday,Income
+380,1/1/2025,Subscriptions,42.91,2025-01,Wednesday,Expense
+378,1/3/2025,Rent,1450,2025-01,Friday,Expense
+379,1/3/2025,Utilities,124.43,2025-01,Friday,Expense
+401,1/7/2025,Transportation,54.81,2025-01,Tuesday,Expense
+382,1/9/2025,Groceries,76.04,2025-01,Thursday,Expense
+404,1/11/2025,Shopping,92.18,2025-01,Saturday,Expense
+406,1/11/2025,Shopping,100.77,2025-01,Saturday,Expense
+402,1/12/2025,Entertainment,29.3,2025-01,Sunday,Expense
+383,1/12/2025,Groceries,105.11,2025-01,Sunday,Expense
+778,1/13/2025,Income,2600,2025-01,Monday,Income
+386,1/13/2025,Groceries,75.54,2025-01,Monday,Expense
+391,1/14/2025,Dining Out,37.98,2025-01,Tuesday,Expense
+394,1/17/2025,Dining Out,55.12,2025-01,Friday,Expense
+385,1/17/2025,Groceries,55.62,2025-01,Friday,Expense
+395,1/18/2025,Transportation,26.74,2025-01,Saturday,Expense
+392,1/19/2025,Dining Out,43.72,2025-01,Sunday,Expense
+405,1/20/2025,Shopping,5,2025-01,Monday,Expense
+389,1/20/2025,Dining Out,5,2025-01,Monday,Expense
+384,1/21/2025,Groceries,79.35,2025-01,Tuesday,Expense
+400,1/22/2025,Transportation,14.66,2025-01,Wednesday,Expense
+387,1/22/2025,Groceries,97.41,2025-01,Wednesday,Expense
+403,1/22/2025,Shopping,11.49,2025-01,Wednesday,Expense
+396,1/22/2025,Transportation,49.11,2025-01,Wednesday,Expense
+407,1/22/2025,Travel,285.11,2025-01,Wednesday,Expense
+393,1/23/2025,Dining Out,23.02,2025-01,Thursday,Expense
+398,1/24/2025,Transportation,39.92,2025-01,Friday,Expense
+399,1/24/2025,Transportation,30.12,2025-01,Friday,Expense
+390,1/24/2025,Dining Out,29.78,2025-01,Friday,Expense
+397,1/24/2025,Transportation,17.21,2025-01,Friday,Expense
+381,1/25/2025,Groceries,32.41,2025-01,Saturday,Expense
+779,1/27/2025,Income,2600,2025-01,Monday,Income
+388,1/27/2025,Dining Out,58.56,2025-01,Monday,Expense
+408,2/1/2025,Rent,1450,2025-02,Saturday,Expense
+409,2/3/2025,Utilities,144.44,2025-02,Monday,Expense
+437,2/3/2025,Shopping,5,2025-02,Monday,Expense
+419,2/5/2025,Groceries,65.57,2025-02,Wednesday,Expense
+410,2/5/2025,Subscriptions,38.32,2025-02,Wednesday,Expense
+424,2/6/2025,Dining Out,27.82,2025-02,Thursday,Expense
+433,2/7/2025,Transportation,33.32,2025-02,Friday,Expense
+420,2/7/2025,Groceries,65.6,2025-02,Friday,Expense
+438,2/10/2025,Shopping,6.7,2025-02,Monday,Expense
+411,2/10/2025,Groceries,73.59,2025-02,Monday,Expense
+780,2/10/2025,Income,2600,2025-02,Monday,Income
+417,2/10/2025,Groceries,64.21,2025-02,Monday,Expense
+425,2/10/2025,Dining Out,53.84,2025-02,Monday,Expense
+428,2/11/2025,Transportation,55.98,2025-02,Tuesday,Expense
+414,2/11/2025,Groceries,39.47,2025-02,Tuesday,Expense
+423,2/13/2025,Dining Out,38.33,2025-02,Thursday,Expense
+415,2/13/2025,Groceries,43.38,2025-02,Thursday,Expense
+421,2/14/2025,Groceries,83.77,2025-02,Friday,Expense
+413,2/14/2025,Groceries,70.43,2025-02,Friday,Expense
+431,2/15/2025,Transportation,74.48,2025-02,Saturday,Expense
+429,2/15/2025,Transportation,32.24,2025-02,Saturday,Expense
+430,2/15/2025,Transportation,61.14,2025-02,Saturday,Expense
+439,2/17/2025,Health/Fitness,45.03,2025-02,Monday,Expense
+434,2/17/2025,Entertainment,59.07,2025-02,Monday,Expense
+418,2/18/2025,Groceries,78.63,2025-02,Tuesday,Expense
+427,2/21/2025,Transportation,41.23,2025-02,Friday,Expense
+441,2/21/2025,Health/Fitness,119.29,2025-02,Friday,Expense
+440,2/22/2025,Health/Fitness,25.23,2025-02,Saturday,Expense
+412,2/22/2025,Groceries,69.15,2025-02,Saturday,Expense
+432,2/22/2025,Transportation,34.56,2025-02,Saturday,Expense
+436,2/22/2025,Entertainment,11.63,2025-02,Saturday,Expense
+422,2/22/2025,Dining Out,27.26,2025-02,Saturday,Expense
+416,2/23/2025,Groceries,86.06,2025-02,Sunday,Expense
+781,2/24/2025,Income,2600,2025-02,Monday,Income
+435,2/26/2025,Entertainment,5,2025-02,Wednesday,Expense
+426,2/26/2025,Dining Out,28.4,2025-02,Wednesday,Expense
+465,3/1/2025,Transportation,32.04,2025-03,Saturday,Expense
+444,3/1/2025,Subscriptions,47.46,2025-03,Saturday,Expense
+452,3/2/2025,Dining Out,25.81,2025-03,Sunday,Expense
+443,3/3/2025,Utilities,144.16,2025-03,Monday,Expense
+456,3/3/2025,Dining Out,44.88,2025-03,Monday,Expense
+468,3/4/2025,Entertainment,50.17,2025-03,Tuesday,Expense
+462,3/5/2025,Transportation,39.75,2025-03,Wednesday,Expense
+473,3/5/2025,Entertainment,39.9,2025-03,Wednesday,Expense
+442,3/5/2025,Rent,1450,2025-03,Wednesday,Expense
+470,3/6/2025,Entertainment,17.02,2025-03,Thursday,Expense
+447,3/8/2025,Groceries,48.35,2025-03,Saturday,Expense
+453,3/8/2025,Dining Out,29.18,2025-03,Saturday,Expense
+469,3/8/2025,Entertainment,60.63,2025-03,Saturday,Expense
+450,3/8/2025,Groceries,77.66,2025-03,Saturday,Expense
+461,3/8/2025,Dining Out,24.04,2025-03,Saturday,Expense
+449,3/10/2025,Groceries,53.96,2025-03,Monday,Expense
+782,3/10/2025,Income,2600,2025-03,Monday,Income
+478,3/11/2025,Health/Fitness,94.85,2025-03,Tuesday,Expense
+460,3/13/2025,Dining Out,14.31,2025-03,Thursday,Expense
+454,3/16/2025,Dining Out,39.29,2025-03,Sunday,Expense
+472,3/17/2025,Entertainment,22.59,2025-03,Monday,Expense
+475,3/17/2025,Shopping,71.02,2025-03,Monday,Expense
+476,3/18/2025,Health/Fitness,72.6,2025-03,Tuesday,Expense
+477,3/20/2025,Health/Fitness,9.49,2025-03,Thursday,Expense
+455,3/20/2025,Dining Out,40.02,2025-03,Thursday,Expense
+457,3/21/2025,Dining Out,65.15,2025-03,Friday,Expense
+463,3/21/2025,Transportation,57.83,2025-03,Friday,Expense
+448,3/22/2025,Groceries,74.43,2025-03,Saturday,Expense
+474,3/22/2025,Entertainment,38.37,2025-03,Saturday,Expense
+464,3/23/2025,Transportation,77.9,2025-03,Sunday,Expense
+458,3/23/2025,Dining Out,32.35,2025-03,Sunday,Expense
+471,3/23/2025,Entertainment,39.61,2025-03,Sunday,Expense
+459,3/23/2025,Dining Out,23.03,2025-03,Sunday,Expense
+783,3/24/2025,Income,2600,2025-03,Monday,Income
+466,3/25/2025,Transportation,32.66,2025-03,Tuesday,Expense
+446,3/25/2025,Groceries,53.59,2025-03,Tuesday,Expense
+451,3/26/2025,Groceries,69.06,2025-03,Wednesday,Expense
+445,3/27/2025,Groceries,93.41,2025-03,Thursday,Expense
+467,3/28/2025,Entertainment,50.88,2025-03,Friday,Expense
+493,4/3/2025,Dining Out,32.33,2025-04,Thursday,Expense
+495,4/3/2025,Transportation,49.75,2025-04,Thursday,Expense
+479,4/4/2025,Rent,1450,2025-04,Friday,Expense
+480,4/5/2025,Utilities,146.23,2025-04,Saturday,Expense
+481,4/5/2025,Subscriptions,52.89,2025-04,Saturday,Expense
+497,4/5/2025,Transportation,67.7,2025-04,Saturday,Expense
+496,4/5/2025,Transportation,38.51,2025-04,Saturday,Expense
+486,4/6/2025,Groceries,55.4,2025-04,Sunday,Expense
+784,4/7/2025,Income,2600,2025-04,Monday,Income
+501,4/7/2025,Shopping,73.27,2025-04,Monday,Expense
+498,4/8/2025,Transportation,23.95,2025-04,Tuesday,Expense
+490,4/8/2025,Dining Out,51.2,2025-04,Tuesday,Expense
+491,4/9/2025,Dining Out,9.49,2025-04,Wednesday,Expense
+494,4/11/2025,Dining Out,49.81,2025-04,Friday,Expense
+504,4/13/2025,Shopping,13.77,2025-04,Sunday,Expense
+499,4/13/2025,Entertainment,5,2025-04,Sunday,Expense
+503,4/14/2025,Shopping,74.66,2025-04,Monday,Expense
+482,4/14/2025,Groceries,57.74,2025-04,Monday,Expense
+485,4/15/2025,Groceries,84.3,2025-04,Tuesday,Expense
+500,4/15/2025,Entertainment,36.85,2025-04,Tuesday,Expense
+489,4/16/2025,Groceries,54.48,2025-04,Wednesday,Expense
+492,4/17/2025,Dining Out,28.9,2025-04,Thursday,Expense
+484,4/18/2025,Groceries,28.8,2025-04,Friday,Expense
+785,4/21/2025,Income,2600,2025-04,Monday,Income
+487,4/24/2025,Groceries,67.56,2025-04,Thursday,Expense
+502,4/27/2025,Shopping,104.97,2025-04,Sunday,Expense
+483,4/27/2025,Groceries,68.49,2025-04,Sunday,Expense
+488,4/28/2025,Groceries,72.34,2025-04,Monday,Expense
+510,5/1/2025,Groceries,114.45,2025-05,Thursday,Expense
+526,5/1/2025,Shopping,127.48,2025-05,Thursday,Expense
+506,5/1/2025,Utilities,106.04,2025-05,Thursday,Expense
+786,5/5/2025,Income,2600,2025-05,Monday,Income
+507,5/5/2025,Subscriptions,43.42,2025-05,Monday,Expense
+505,5/5/2025,Rent,1450,2025-05,Monday,Expense
+522,5/8/2025,Entertainment,9.97,2025-05,Thursday,Expense
+523,5/9/2025,Shopping,43.76,2025-05,Friday,Expense
+512,5/10/2025,Groceries,85.47,2025-05,Saturday,Expense
+528,5/11/2025,Health/Fitness,53.44,2025-05,Sunday,Expense
+511,5/12/2025,Groceries,55.08,2025-05,Monday,Expense
+508,5/13/2025,Groceries,61.54,2025-05,Tuesday,Expense
+527,5/13/2025,Health/Fitness,60.74,2025-05,Tuesday,Expense
+514,5/13/2025,Groceries,72.44,2025-05,Tuesday,Expense
+524,5/14/2025,Shopping,66.02,2025-05,Wednesday,Expense
+525,5/16/2025,Shopping,23.06,2025-05,Friday,Expense
+509,5/16/2025,Groceries,51.24,2025-05,Friday,Expense
+519,5/18/2025,Dining Out,61.72,2025-05,Sunday,Expense
+787,5/19/2025,Income,2600,2025-05,Monday,Income
+521,5/20/2025,Transportation,29.77,2025-05,Tuesday,Expense
+529,5/22/2025,Health/Fitness,78.5,2025-05,Thursday,Expense
+530,5/22/2025,Health/Fitness,44.06,2025-05,Thursday,Expense
+517,5/24/2025,Dining Out,34.66,2025-05,Saturday,Expense
+518,5/24/2025,Dining Out,42.87,2025-05,Saturday,Expense
+513,5/25/2025,Groceries,43.13,2025-05,Sunday,Expense
+531,5/26/2025,Health/Fitness,89.52,2025-05,Monday,Expense
+520,5/26/2025,Transportation,36.29,2025-05,Monday,Expense
+516,5/27/2025,Dining Out,71.03,2025-05,Tuesday,Expense
+515,5/28/2025,Dining Out,42.18,2025-05,Wednesday,Expense
+538,6/1/2025,Groceries,54.95,2025-06,Sunday,Expense
+550,6/1/2025,Dining Out,46.66,2025-06,Sunday,Expense
+563,6/1/2025,Health/Fitness,69.47,2025-06,Sunday,Expense
+543,6/1/2025,Groceries,82.46,2025-06,Sunday,Expense
+788,6/2/2025,Income,2600,2025-06,Monday,Income
+533,6/2/2025,Utilities,144.95,2025-06,Monday,Expense
+553,6/2/2025,Transportation,48.15,2025-06,Monday,Expense
+559,6/2/2025,Entertainment,20.65,2025-06,Monday,Expense
+557,6/3/2025,Entertainment,5,2025-06,Tuesday,Expense
+544,6/3/2025,Groceries,27.71,2025-06,Tuesday,Expense
+532,6/4/2025,Rent,1450,2025-06,Wednesday,Expense
+534,6/4/2025,Subscriptions,41.74,2025-06,Wednesday,Expense
+535,6/5/2025,Groceries,55.32,2025-06,Thursday,Expense
+547,6/5/2025,Dining Out,61.71,2025-06,Thursday,Expense
+561,6/7/2025,Shopping,58.07,2025-06,Saturday,Expense
+555,6/8/2025,Transportation,51.58,2025-06,Sunday,Expense
+560,6/8/2025,Shopping,68.86,2025-06,Sunday,Expense
+554,6/12/2025,Transportation,34.44,2025-06,Thursday,Expense
+539,6/13/2025,Groceries,69.23,2025-06,Friday,Expense
+546,6/14/2025,Dining Out,33.42,2025-06,Saturday,Expense
+548,6/15/2025,Dining Out,47.01,2025-06,Sunday,Expense
+789,6/16/2025,Income,2600,2025-06,Monday,Income
+552,6/18/2025,Transportation,57.59,2025-06,Wednesday,Expense
+537,6/18/2025,Groceries,76.29,2025-06,Wednesday,Expense
+540,6/19/2025,Groceries,86.82,2025-06,Thursday,Expense
+541,6/19/2025,Groceries,62.79,2025-06,Thursday,Expense
+564,6/20/2025,Health/Fitness,8.24,2025-06,Friday,Expense
+536,6/20/2025,Groceries,42.44,2025-06,Friday,Expense
+558,6/21/2025,Entertainment,53.22,2025-06,Saturday,Expense
+545,6/21/2025,Dining Out,21.48,2025-06,Saturday,Expense
+556,6/21/2025,Transportation,5,2025-06,Saturday,Expense
+542,6/22/2025,Groceries,83.66,2025-06,Sunday,Expense
+551,6/24/2025,Transportation,39.62,2025-06,Tuesday,Expense
+549,6/27/2025,Dining Out,16.19,2025-06,Friday,Expense
+562,6/27/2025,Shopping,5,2025-06,Friday,Expense
+790,6/30/2025,Income,2600,2025-06,Monday,Income
+583,7/1/2025,Entertainment,58.67,2025-07,Tuesday,Expense
+565,7/2/2025,Rent,1450,2025-07,Wednesday,Expense
+566,7/2/2025,Utilities,131.27,2025-07,Wednesday,Expense
+567,7/2/2025,Subscriptions,43.39,2025-07,Wednesday,Expense
+590,7/3/2025,Health/Fitness,98.54,2025-07,Thursday,Expense
+570,7/4/2025,Groceries,75.94,2025-07,Friday,Expense
+581,7/4/2025,Transportation,35.24,2025-07,Friday,Expense
+576,7/6/2025,Dining Out,46.23,2025-07,Sunday,Expense
+589,7/7/2025,Shopping,51.64,2025-07,Monday,Expense
+572,7/7/2025,Groceries,72.89,2025-07,Monday,Expense
+575,7/9/2025,Dining Out,56.06,2025-07,Wednesday,Expense
+587,7/13/2025,Entertainment,8.21,2025-07,Sunday,Expense
+586,7/13/2025,Entertainment,49.19,2025-07,Sunday,Expense
+791,7/14/2025,Income,2600,2025-07,Monday,Income
+573,7/15/2025,Groceries,76.56,2025-07,Tuesday,Expense
+568,7/16/2025,Groceries,122.52,2025-07,Wednesday,Expense
+571,7/19/2025,Groceries,91.6,2025-07,Saturday,Expense
+584,7/19/2025,Entertainment,59.93,2025-07,Saturday,Expense
+591,7/19/2025,Health/Fitness,15.15,2025-07,Saturday,Expense
+577,7/20/2025,Transportation,65.12,2025-07,Sunday,Expense
+578,7/20/2025,Transportation,28.06,2025-07,Sunday,Expense
+594,7/21/2025,Travel,310.49,2025-07,Monday,Expense
+585,7/22/2025,Entertainment,61.8,2025-07,Tuesday,Expense
+569,7/22/2025,Groceries,91.49,2025-07,Tuesday,Expense
+592,7/23/2025,Health/Fitness,78.11,2025-07,Wednesday,Expense
+588,7/23/2025,Shopping,109.49,2025-07,Wednesday,Expense
+580,7/23/2025,Transportation,27.83,2025-07,Wednesday,Expense
+574,7/23/2025,Groceries,28.79,2025-07,Wednesday,Expense
+579,7/24/2025,Transportation,56.57,2025-07,Thursday,Expense
+582,7/25/2025,Entertainment,78.52,2025-07,Friday,Expense
+593,7/27/2025,Health/Fitness,81.69,2025-07,Sunday,Expense
+792,7/28/2025,Income,2600,2025-07,Monday,Income
+596,8/1/2025,Utilities,135.67,2025-08,Friday,Expense
+606,8/2/2025,Dining Out,17.65,2025-08,Saturday,Expense
+595,8/2/2025,Rent,1450,2025-08,Saturday,Expense
+597,8/3/2025,Subscriptions,45.08,2025-08,Sunday,Expense
+602,8/4/2025,Groceries,20.02,2025-08,Monday,Expense
+611,8/4/2025,Dining Out,43.63,2025-08,Monday,Expense
+614,8/5/2025,Transportation,14.61,2025-08,Tuesday,Expense
+616,8/6/2025,Transportation,25.17,2025-08,Wednesday,Expense
+623,8/9/2025,Shopping,110.9,2025-08,Saturday,Expense
+793,8/11/2025,Income,2600,2025-08,Monday,Income
+624,8/11/2025,Health/Fitness,47.75,2025-08,Monday,Expense
+612,8/12/2025,Dining Out,31.21,2025-08,Tuesday,Expense
+607,8/12/2025,Dining Out,12.01,2025-08,Tuesday,Expense
+621,8/14/2025,Entertainment,32.11,2025-08,Thursday,Expense
+615,8/14/2025,Transportation,38.52,2025-08,Thursday,Expense
+610,8/16/2025,Dining Out,45.2,2025-08,Saturday,Expense
+618,8/17/2025,Entertainment,10.35,2025-08,Sunday,Expense
+608,8/17/2025,Dining Out,7.64,2025-08,Sunday,Expense
+604,8/19/2025,Groceries,66.18,2025-08,Tuesday,Expense
+622,8/19/2025,Shopping,5,2025-08,Tuesday,Expense
+600,8/20/2025,Groceries,86.79,2025-08,Wednesday,Expense
+599,8/22/2025,Groceries,51,2025-08,Friday,Expense
+617,8/24/2025,Transportation,23.45,2025-08,Sunday,Expense
+794,8/25/2025,Income,2600,2025-08,Monday,Income
+620,8/25/2025,Entertainment,10.63,2025-08,Monday,Expense
+619,8/26/2025,Entertainment,41,2025-08,Tuesday,Expense
+601,8/26/2025,Groceries,95.68,2025-08,Tuesday,Expense
+605,8/26/2025,Groceries,87.52,2025-08,Tuesday,Expense
+603,8/26/2025,Groceries,51.34,2025-08,Tuesday,Expense
+613,8/27/2025,Dining Out,40.88,2025-08,Wednesday,Expense
+598,8/28/2025,Groceries,68.39,2025-08,Thursday,Expense
+609,8/28/2025,Dining Out,45.88,2025-08,Thursday,Expense
+643,9/1/2025,Transportation,44.54,2025-09,Monday,Expense
+626,9/1/2025,Utilities,153.58,2025-09,Monday,Expense
+637,9/1/2025,Dining Out,35.66,2025-09,Monday,Expense
+625,9/2/2025,Rent,1450,2025-09,Tuesday,Expense
+646,9/3/2025,Transportation,48.45,2025-09,Wednesday,Expense
+627,9/3/2025,Subscriptions,45.24,2025-09,Wednesday,Expense
+645,9/7/2025,Transportation,15.65,2025-09,Sunday,Expense
+638,9/7/2025,Dining Out,49.46,2025-09,Sunday,Expense
+795,9/8/2025,Income,2600,2025-09,Monday,Income
+647,9/8/2025,Transportation,23.49,2025-09,Monday,Expense
+651,9/8/2025,Entertainment,50.62,2025-09,Monday,Expense
+629,9/8/2025,Groceries,59.1,2025-09,Monday,Expense
+636,9/11/2025,Groceries,71.2,2025-09,Thursday,Expense
+639,9/12/2025,Dining Out,68.16,2025-09,Friday,Expense
+635,9/13/2025,Groceries,41.25,2025-09,Saturday,Expense
+649,9/14/2025,Transportation,31.2,2025-09,Sunday,Expense
+655,9/15/2025,Shopping,44.58,2025-09,Monday,Expense
+631,9/15/2025,Groceries,51.53,2025-09,Monday,Expense
+628,9/15/2025,Groceries,65.81,2025-09,Monday,Expense
+650,9/16/2025,Entertainment,26.05,2025-09,Tuesday,Expense
+654,9/16/2025,Shopping,132.86,2025-09,Tuesday,Expense
+644,9/17/2025,Transportation,31.99,2025-09,Wednesday,Expense
+642,9/18/2025,Transportation,78.7,2025-09,Thursday,Expense
+632,9/19/2025,Groceries,70.58,2025-09,Friday,Expense
+633,9/20/2025,Groceries,48.29,2025-09,Saturday,Expense
+640,9/20/2025,Dining Out,14.45,2025-09,Saturday,Expense
+652,9/21/2025,Entertainment,32.17,2025-09,Sunday,Expense
+634,9/22/2025,Groceries,107.9,2025-09,Monday,Expense
+796,9/22/2025,Income,2600,2025-09,Monday,Income
+641,9/23/2025,Dining Out,33.68,2025-09,Tuesday,Expense
+653,9/23/2025,Shopping,82.8,2025-09,Tuesday,Expense
+648,9/24/2025,Transportation,29.33,2025-09,Wednesday,Expense
+630,9/25/2025,Groceries,89.95,2025-09,Thursday,Expense
+656,10/1/2025,Rent,1450,2025-10,Wednesday,Expense
+657,10/1/2025,Utilities,115.23,2025-10,Wednesday,Expense
+688,10/2/2025,Shopping,57.16,2025-10,Thursday,Expense
+658,10/3/2025,Subscriptions,48.15,2025-10,Friday,Expense
+672,10/4/2025,Dining Out,45.62,2025-10,Saturday,Expense
+673,10/4/2025,Dining Out,10.98,2025-10,Saturday,Expense
+687,10/5/2025,Entertainment,10.15,2025-10,Sunday,Expense
+797,10/6/2025,Income,2600,2025-10,Monday,Income
+676,10/7/2025,Transportation,40.47,2025-10,Tuesday,Expense
+659,10/8/2025,Groceries,66.46,2025-10,Wednesday,Expense
+662,10/8/2025,Groceries,89.54,2025-10,Wednesday,Expense
+679,10/9/2025,Transportation,32.39,2025-10,Thursday,Expense
+690,10/10/2025,Shopping,23.27,2025-10,Friday,Expense
+685,10/10/2025,Entertainment,16.99,2025-10,Friday,Expense
+663,10/10/2025,Groceries,50.02,2025-10,Friday,Expense
+670,10/12/2025,Dining Out,24.44,2025-10,Sunday,Expense
+666,10/12/2025,Groceries,72.23,2025-10,Sunday,Expense
+660,10/13/2025,Groceries,80.6,2025-10,Monday,Expense
+667,10/16/2025,Groceries,75.07,2025-10,Thursday,Expense
+678,10/16/2025,Transportation,48.99,2025-10,Thursday,Expense
+683,10/17/2025,Transportation,24.45,2025-10,Friday,Expense
+689,10/18/2025,Shopping,66.33,2025-10,Saturday,Expense
+668,10/18/2025,Dining Out,43.74,2025-10,Saturday,Expense
+686,10/18/2025,Entertainment,22.57,2025-10,Saturday,Expense
+681,10/19/2025,Transportation,22.18,2025-10,Sunday,Expense
+665,10/19/2025,Groceries,54.45,2025-10,Sunday,Expense
+798,10/20/2025,Income,2600,2025-10,Monday,Income
+684,10/20/2025,Transportation,59.7,2025-10,Monday,Expense
+664,10/22/2025,Groceries,69.51,2025-10,Wednesday,Expense
+691,10/23/2025,Health/Fitness,21,2025-10,Thursday,Expense
+661,10/23/2025,Groceries,66.5,2025-10,Thursday,Expense
+671,10/23/2025,Dining Out,31.42,2025-10,Thursday,Expense
+677,10/24/2025,Transportation,48.53,2025-10,Friday,Expense
+674,10/24/2025,Dining Out,67.34,2025-10,Friday,Expense
+669,10/24/2025,Dining Out,21.65,2025-10,Friday,Expense
+680,10/24/2025,Transportation,36.45,2025-10,Friday,Expense
+675,10/25/2025,Dining Out,18.03,2025-10,Saturday,Expense
+682,10/25/2025,Transportation,34.7,2025-10,Saturday,Expense
+694,11/1/2025,Subscriptions,52.45,2025-11,Saturday,Expense
+696,11/1/2025,Groceries,61.04,2025-11,Saturday,Expense
+708,11/2/2025,Dining Out,36.3,2025-11,Sunday,Expense
+692,11/2/2025,Rent,1450,2025-11,Sunday,Expense
+702,11/2/2025,Dining Out,23.21,2025-11,Sunday,Expense
+711,11/3/2025,Entertainment,45.4,2025-11,Monday,Expense
+706,11/3/2025,Dining Out,20.92,2025-11,Monday,Expense
+799,11/3/2025,Income,2600,2025-11,Monday,Income
+693,11/4/2025,Utilities,134.66,2025-11,Tuesday,Expense
+712,11/4/2025,Entertainment,12.14,2025-11,Tuesday,Expense
+703,11/9/2025,Dining Out,38.24,2025-11,Sunday,Expense
+710,11/10/2025,Transportation,38.17,2025-11,Monday,Expense
+698,11/10/2025,Groceries,62.93,2025-11,Monday,Expense
+713,11/14/2025,Shopping,64.51,2025-11,Friday,Expense
+701,11/15/2025,Dining Out,50.99,2025-11,Saturday,Expense
+700,11/16/2025,Groceries,60.51,2025-11,Sunday,Expense
+699,11/16/2025,Groceries,78.38,2025-11,Sunday,Expense
+705,11/16/2025,Dining Out,32.87,2025-11,Sunday,Expense
+800,11/17/2025,Income,2600,2025-11,Monday,Income
+709,11/19/2025,Transportation,61.72,2025-11,Wednesday,Expense
+697,11/19/2025,Groceries,85.26,2025-11,Wednesday,Expense
+717,11/20/2025,Health/Fitness,6,2025-11,Thursday,Expense
+715,11/20/2025,Shopping,64.08,2025-11,Thursday,Expense
+714,11/20/2025,Shopping,8.73,2025-11,Thursday,Expense
+707,11/22/2025,Dining Out,63.74,2025-11,Saturday,Expense
+716,11/26/2025,Health/Fitness,10.61,2025-11,Wednesday,Expense
+695,11/28/2025,Groceries,69.19,2025-11,Friday,Expense
+704,11/28/2025,Dining Out,39.69,2025-11,Friday,Expense
+801,12/1/2025,Income,2600,2025-12,Monday,Income
+730,12/2/2025,Groceries,60.89,2025-12,Tuesday,Expense
+718,12/2/2025,Rent,1450,2025-12,Tuesday,Expense
+720,12/4/2025,Subscriptions,50.71,2025-12,Thursday,Expense
+719,12/5/2025,Utilities,145.18,2025-12,Friday,Expense
+734,12/6/2025,Dining Out,79.91,2025-12,Saturday,Expense
+732,12/7/2025,Dining Out,84.46,2025-12,Sunday,Expense
+750,12/7/2025,Travel,271.57,2025-12,Sunday,Expense
+742,12/8/2025,Shopping,70.28,2025-12,Monday,Expense
+743,12/9/2025,Shopping,72.08,2025-12,Tuesday,Expense
+733,12/9/2025,Dining Out,73.25,2025-12,Tuesday,Expense
+727,12/10/2025,Groceries,108.37,2025-12,Wednesday,Expense
+723,12/10/2025,Groceries,79.89,2025-12,Wednesday,Expense
+740,12/10/2025,Transportation,43.51,2025-12,Wednesday,Expense
+735,12/14/2025,Transportation,100.03,2025-12,Sunday,Expense
+726,12/14/2025,Groceries,168.43,2025-12,Sunday,Expense
+722,12/15/2025,Groceries,105.02,2025-12,Monday,Expense
+736,12/15/2025,Transportation,98.93,2025-12,Monday,Expense
+802,12/15/2025,Income,2600,2025-12,Monday,Income
+721,12/15/2025,Groceries,68.13,2025-12,Monday,Expense
+739,12/16/2025,Transportation,78.24,2025-12,Tuesday,Expense
+747,12/19/2025,Shopping,130.42,2025-12,Friday,Expense
+725,12/19/2025,Groceries,82.31,2025-12,Friday,Expense
+728,12/19/2025,Groceries,92.31,2025-12,Friday,Expense
+731,12/20/2025,Dining Out,32.68,2025-12,Saturday,Expense
+729,12/20/2025,Groceries,109.91,2025-12,Saturday,Expense
+738,12/20/2025,Transportation,81.9,2025-12,Saturday,Expense
+746,12/21/2025,Shopping,135.03,2025-12,Sunday,Expense
+748,12/22/2025,Shopping,163.1,2025-12,Monday,Expense
+737,12/23/2025,Transportation,107.18,2025-12,Tuesday,Expense
+749,12/26/2025,Health/Fitness,99.19,2025-12,Friday,Expense
+744,12/26/2025,Shopping,190.87,2025-12,Friday,Expense
+745,12/26/2025,Shopping,119.42,2025-12,Friday,Expense
+741,12/28/2025,Entertainment,12.7,2025-12,Sunday,Expense
+724,12/28/2025,Groceries,118.72,2025-12,Sunday,Expense
+803,12/29/2025,Income,2600,2025-12,Monday,Income
