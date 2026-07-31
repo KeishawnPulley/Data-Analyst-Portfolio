@@ -14,5 +14,6 @@ Tools: Python, pandas, Power BI, DAX
 Which stocks in a 7-stock portfolio offer the best risk-adjusted return, and how diversified is the portfolio really?
 Tools: Python, yfinance, Kaggle.com, Power BI
 
-About
+About:
+
 Each project folder contains its own README with the full breakdown (goal, method, skills used, and results), the Python scripts used to generate and clean the data, and the underlying CSV files. Power BI dashboard screenshots are included in each folder.
